@@ -8,7 +8,7 @@
 
 ## 🎬 Demo
 
-https://github.com/user-attachments/assets/d4a8c73c-d1cb-47a3-8834-d0e0ffa35a64
+https://github.com/mrgulrez/haven-ml/assets/181709848/d4a8c73c-d1cb-47a3-8834-d0e0ffa35a64
 
 > **📹 8-second demo showing real-time emotion detection in action**
 
