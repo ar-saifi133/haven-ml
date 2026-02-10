@@ -6,7 +6,11 @@
 
 > **An advanced AI system that understands human emotions through facial expressions and voice tone, providing empathetic and contextually appropriate responses.**
 
-![Empathy System Demo](docs/images/demo_screenshot.png)
+## 🎬 Demo
+
+https://github.com/user-attachments/assets/d4a8c73c-d1cb-47a3-8834-d0e0ffa35a64
+
+> **📹 8-second demo showing real-time emotion detection in action**
 
 ## 🎯 Overview
 
@@ -305,11 +309,13 @@ haven-ml/
 
 ### Prerequisites
 
-- Python 3.10 or higher
+- **Python 3.11, 3.12, or 3.13** (Recommended: 3.13 - fully tested)
 - Webcam (for vision features)
 - Microphone (for audio features)
 - 8GB RAM minimum (16GB recommended)
 - ~5GB disk space for models
+
+> **Note**: Python 3.13 is recommended. All dependencies have been tested and confirmed working with Python 3.13.7. See [PYTHON_VERSION.md](PYTHON_VERSION.md) for details.
 
 ### Step 1: Clone Repository
 
