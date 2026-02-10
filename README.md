@@ -6,11 +6,7 @@
 
 > **An advanced AI system that understands human emotions through facial expressions and voice tone, providing empathetic and contextually appropriate responses.**
 
-## 🎬 Demo
-
-https://github.com/mrgulrez/haven-ml/assets/181709848/d4a8c73c-d1cb-47a3-8834-d0e0ffa35a64
-
-> **📹 8-second demo showing real-time emotion detection in action**
+![Empathy System Demo](docs/images/demo_screenshot.png)
 
 ## 🎯 Overview
 
@@ -558,8 +554,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 📧 Contact
 
 - **GitHub**: [@mrgulrez](https://github.com/mrgulrez)
-- **Email**: egulrezalam@gmail.com
-- **LinkedIn**: [Gulrez Alam](https://linkedin.com/in/mrgulrez)
+- **Email**: your.email@example.com
+- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
 ## 🌟 Star History
 
